@@ -1,0 +1,9 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.17.1",
+    "qs": "^6.10.1",
+    "request": "^2.88.2"
+  }
+}
